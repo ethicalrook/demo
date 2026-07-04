@@ -1,4 +1,4 @@
 # demo
 First github repository 
 <br>
-Author - Rudra Vaishnav
+Author - Rudra Vaishnav (ethicalrook)
